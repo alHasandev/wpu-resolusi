@@ -4,5 +4,5 @@ WPU RESOLUSI 2019
 - Website untuk mengelola Ide Ide hebat sang revolusioner
 - Membuat forum diskusi untuk kelas
 - Membuat sistem informasi manajemen
-- Kolaborasi dengan mastah
+- Membuat blog untuk menyimpan informasi penting seputar bidang IT
 
