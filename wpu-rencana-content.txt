@@ -1,5 +1,7 @@
 RENCANA KONTEN
 -JAVASCRIPT
+  * ES 6
+  * Framework Js
 -PHP FRAMEWORK
 -Interview
 -Content Manajamen
