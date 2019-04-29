@@ -2,6 +2,7 @@ RENCANA KONTEN
 -JAVASCRIPT
   * ES 6
   * Framework Js
+-Materi Dasar Struktur data konseptual
 -PHP FRAMEWORK
 -Interview
 -Content Manajamen
