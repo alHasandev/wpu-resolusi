@@ -2,9 +2,11 @@ RENCANA KONTEN
 -JAVASCRIPT
   * ES 6
   * Framework Js
-    ^ Angular
+    ^ Vue 
     ^ React
+-Materi Dasar Struktur data konseptual
 -PHP FRAMEWORK
--Laravel
+ * Laravel
 -Interview
 -Content Manajamen
+-Phyton
